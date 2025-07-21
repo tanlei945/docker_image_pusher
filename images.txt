@@ -10,3 +10,4 @@ postgres:14-alpine
 redis:7-alpine
 eclipse-mosquitto:2
 chirpstack/chirpstack:4
+emqx/emqx-enterprise
